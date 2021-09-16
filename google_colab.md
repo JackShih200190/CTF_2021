@@ -1,6 +1,7 @@
 ## 把colab當作Linux使用
-![image](https://user-images.githubusercontent.com/55253641/133535969-cc1a3980-0f10-45be-89c9-4d6e4e6585c5.png)
-
+```
+Linux 650f71bf12ff 5.4.104+ #1 SMP Sat Jun 5 09:50:34 PDT 2021 x86_64 x86_64 x86_64 GNU/Linux
+```
 
 ## !openssl -help
 
