@@ -1,7 +1,7 @@
 ## 使用套件
 ```
 ! pip install pycrypto
-https://pypi.org/project/pycrypto/
+ - [123](https://pypi.org/project/pycrypto/)
 ```
 
 ## 對稱式加密
