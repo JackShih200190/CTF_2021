@@ -5,6 +5,6 @@
  - SymPy支持符號計算、高精度計算、模式匹配、繪圖、解方程、微積分、組合數學、離散數學、幾何學、概率與統計、物理學等方面的功能。
 
 
-
-
+## SymPy wiki範例
+![image](https://user-images.githubusercontent.com/55253641/138242282-6f223b26-265d-416c-8d08-a5954355cf90.png)
 
