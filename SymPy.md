@@ -1,4 +1,4 @@
- ## - [SymPy](https://zh.wikipedia.org/wiki/SymPy)
+ ## [SymPy](https://zh.wikipedia.org/wiki/SymPy)
  - SymPy是一個符號計算的Python庫。它的目標是成為一個全功能的計算機代數系統，同時保持代碼簡潔、易於理解和擴展。
    它完全由Python寫成，不依賴於外部庫。
  - SymPy支持:
