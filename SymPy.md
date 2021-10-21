@@ -8,3 +8,18 @@
 ## SymPy wiki範例
 ![image](https://user-images.githubusercontent.com/55253641/138242282-6f223b26-265d-416c-8d08-a5954355cf90.png)
 
+## 環境建置
+```
+!pip install sympy
+```
+
+## 解簡單方程式
+```python
+from sympy import *
+x = Symbol('x')
+y = Symbol('y')
+print(solve([2 * x - y - 3, 3 * x + y - 7],[x, y]))
+```
+## 資料來源
+ - [解方程式](https://www.itread01.com/p/439806.html)
+ - 
